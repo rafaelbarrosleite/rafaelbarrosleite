@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rafael de Barros Leite
 
-<!--
-**rafaelbarrosleite/rafaelbarrosleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** construindo agentes de IA que rodam em produção.
+Fundador da [IntelliAgentes](https://intelliagents.digital) · Ex-Product Manager Sênior · Pós-graduação em IA e Machine Learning (FIAP)
 
-Here are some ideas to get you started:
+### O que faço
+- Agentes de atendimento por WhatsApp com **LangGraph + Claude**, multi-tenant, em produção numa clínica médica
+- Segurança de LLM: guardrails determinísticos, checagem de aderência (número sem fonte não sai), defesa contra prompt injection
+- **Avaliação de LLM no CI**: bateria de conversas com o modelo real, 3 repetições por PR para medir variação
+- Back-end Python (FastAPI) + Supabase/Postgres com RLS, e painéis em Next.js/TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto em destaque
+**[whatsapp-agent-core](https://github.com/rafaelbarrosleite/whatsapp-agent-core)**: motor multi-tenant de agente de WhatsApp.
+LangGraph · Claude · FastAPI · Supabase (RLS) · 780+ testes · avaliação de LLM no CI (45/45)
+
+### Stack
+Python · LangGraph · LangChain · Claude API · FastAPI · Pydantic · PostgreSQL/Supabase · Next.js · TypeScript · Docker · GitHub Actions
+
+### Contato
+[LinkedIn](https://www.linkedin.com/in/rafaelbleite/) · rafaelbarrosleite@gmail.com · +5567999690808
